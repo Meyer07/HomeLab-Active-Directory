@@ -28,7 +28,9 @@ For the Public profile for logging, I set it to log all connections made to it
 
 I Installed Active Directory Services for Users and Computers. I set up the network as the root.lab, I created three groups and three users
 Groups:IT,HR,Accounting
+
 Users:John Doe(jdoe@root.com), Maggie Carley(mcarley@root.com), Bruce Wayne(bwayne@root.com)
+
 I set each password to a very basic password that fit the password restrictions I set up earlier on in this lab
 Password1234 or Password1234!
 
