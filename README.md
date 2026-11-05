@@ -1,5 +1,5 @@
 # HomeLab-Active-Directory
-This is the documentation for my Homelab set up of an Active Directory lab. Its run on Virtual Box VM's and run on the Windows 2025 Server version.
+This is the documentation for my Homelab set up of an Active Directory lab. Its run on Virtual Box VM's and run on the Windows 2025 Domain Controller.
 
 First I set up the Windows Defender Firewall and configured each; The Domain, Private and Public profiles with each its own rules depending on how I want each to interact with each provided element.
 I am running this lab as if I were to run it as a network administrator for a company looking to keep its network safe and secure.
